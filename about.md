@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+**Välkommen till Repair Café Malmö**, här får du hjälp med att laga dina trasiga prylar. Främst elektroniska saker, men vi är öppna för det mesta. 
+Vår idé är att hjälpa dig laga själv, vi är ett gäng volontärer med blandad erfarenhet. Så, om du har nåt trasigt hemma, släng det inte; kom istället till oss så hjälps vi åt att se om det går att få liv i det, innan du slänger och köper nytt. Inga förkunskaper krävs, vi har verktyg och viss kunskap; vi lovar inte att allt går att fixa, men vi lovar att det går att försöka!
+Om du också vill hjälpa andra att reparera sina saker är du hjärtligt välkommen som volontär. 
