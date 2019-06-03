@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Repair Cafe Malmö
-email: info@repaircafe.com
+email: info@repaircafe.nu
 description: >- # this means to ignore newlines until "baseurl:"
   The new homepage of Repair Cafe Malmö is here!
 # baseurl: "" # the subpath of your site, e.g. /blog
